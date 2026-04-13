@@ -15,6 +15,8 @@ Operatör ve CNC tezgahlarının farklı çalışma koşulları altında perform
 - Operatör kaynaklı bekleme süreleri gözlemlenmiştir
 - CNC tezgahlarının kullanım oranları karşılaştırılmıştır
 - Sistem performansını etkileyen temel faktörler belirlenmiştir
+-  Operatörün birden fazla makineye hizmet vermesi nedeniyle belirli makinelerde bekleme süreleri artmıştır
+
 
 ## Not
 Bu çalışma, sistem davranışını anlamaya yönelik bir simülasyon taslağı olup karar destek amacıyla geliştirilmiştir.
